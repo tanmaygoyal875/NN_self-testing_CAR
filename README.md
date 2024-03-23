@@ -1,4 +1,6 @@
-# NN_self-testing_CAR
+# RNN_self-testing_CAR
+
+#https://tanmaygoyal875.github.io/RNN_self_drive_CAR/
 
 Hello Guys in this project I have Used Artifiacial Neural Network where the car will learn how to move in the game of that retro theme 
 
